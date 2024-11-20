@@ -25,3 +25,6 @@
 	path = lib/lvgl
 	url = https://github.com/qmk/lvgl.git
 	branch = release/v8.2
+[submodule "keyboards/ergodox_ez/keymaps/neo2"]
+	path = keyboards/ergodox_ez/keymaps/neo2
+	url = git@github.com:yeldiRium/qmk-neo2.git
