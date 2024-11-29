@@ -28,3 +28,6 @@
 [submodule "keyboards/ergodox_ez/keymaps/neo2"]
 	path = keyboards/ergodox_ez/keymaps/neo2
 	url = git@github.com:yeldiRium/qmk-neo2.git
+[submodule "keyboards/crkbd/keymaps/neo2"]
+	path = keyboards/crkbd/keymaps/neo2
+	url = git@github.com:yeldiRium/qmk-crkbd-neo2.git
